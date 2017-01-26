@@ -2,7 +2,7 @@
 1. Textbox
 2. Label for the textbox
 
-### We want to change the label color for every timme the textbox changes (the color code)
+### We want to change the label color for every time the textbox changes (the color code)
 
 ### Start from the textbox, find its parent using:
 ```csharp
