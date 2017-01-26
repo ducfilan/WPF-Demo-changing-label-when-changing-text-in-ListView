@@ -1,0 +1,2 @@
+C:\Users\H-Duc\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\ChangeLabelWhenChangeTextbox.exe.config
+C:\Users\H-Duc\Documents\visual studio 2015\Projects\WpfApplication1\ChangeLabelWhenChangeTextbox\bin\Debug\ChangeLabelWhenChangeTextbox.exe.config
